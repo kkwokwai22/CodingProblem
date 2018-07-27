@@ -18,4 +18,7 @@ function stringCompression(string) {
 	return stringObject;
 }
 
-stringCompression('aabcccccaaa');
+stringCompression('aabcccccaaa'); 
+
+
+
